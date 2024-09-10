@@ -12,7 +12,7 @@ I am a 4th year Mechanical Engineering student at The University of Texas at Aus
 
 <div class="row">
 {% include about/skills.html title="Technical Skills" source=site.data.programming-skills %}
-{% include about/skills.html title=" " source=site.data.other-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
