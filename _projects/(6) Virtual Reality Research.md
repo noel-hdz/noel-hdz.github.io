@@ -28,5 +28,5 @@ The objective of this research was to investigate the feasibility of using the Q
 ## Result
 Due to the challenges with the mesh not functioning as intended, and given the time constraints before the research fair, I was unable to complete the project to the desired level of presentation quality. The FABRIK solver successfully controlled the bones of the humanoid robot in simulation, but the integration with the mesh was incomplete. As a result, the project was paused, but it remains a potential candidate for future exploration and development.
 
-## Reflection
+## Reflection, Future 
 This project provided valuable insights into the integration of VR technology with robotic control systems and highlighted the technical challenges associated with mesh and bone animations in simulations. While the project could not be completed in time for the research fair, the experience gained and the initial results achieved lay a solid foundation for potential future work in this area.
