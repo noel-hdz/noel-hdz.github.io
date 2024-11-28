@@ -39,3 +39,4 @@ Our main tasks were:
 
 The final RC car performed well, achieving a max speed of 12 mph, acceleration of 22 ft/s², and a ground clearance of 0.28 inches. The chassis successfully supported the powertrain, and the vehicle remained operational after impacts during testing. The project enhanced my understanding of drivetrain design, powertrain integration, and vehicle testing, and taught valuable lessons about managing unexpected challenges during the design process. Future improvements would include better impact protection and enhanced ground clearance.
 
+<img src="../assets/images/RCCar/FinalDrive.gif" alt="Zoomed in view of drivetrain" width=500> 
