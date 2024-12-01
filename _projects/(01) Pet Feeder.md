@@ -36,4 +36,4 @@ Next I focused on designing the CAD of the housing for all the components. I rea
 
 In the end I had a mostly functional pet feeder. Once I started testing, I realized that using a 16.9 fl oz water bottles would not work because their neck was too small which would cause kibble to get stuck. However, because of the modular design this issue can easily solved by using a bottle with a bigger neck. 
 
-<img src="../assets/images/feeder/finalProductCrop.gif" alt="test" width="500"> 
+<img src="../assets/images/feeder/finalProduct.gif" alt="GIF of final working feeder" width="500"> 
