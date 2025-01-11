@@ -1,22 +1,26 @@
 - name: SolidWorks (CAD, FEA)
-  percentage: 90
+  percentage: 95
   color: danger
 
-- name: 3D Printing (FDM)
+- name: Additive Manufacturing (FDM)
   percentage: 90
   color: 
 
 - name: Rapid Prototyping
-  percentage: 80
+  percentage: 85
   color: info
 
-- name: Arduino
-  percentage: 70
-  color: success
+- name: Machining
+  percentage: 80
+  color: 
 
 - name: MS Office
-  percentage: 70
+  percentage: 80
   color: light
+
+- name: Arduino
+  percentage: 75
+  color: success
 
 - name: Python
   percentage: 70
