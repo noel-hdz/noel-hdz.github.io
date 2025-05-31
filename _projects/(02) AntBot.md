@@ -1,7 +1,7 @@
 ---
  name: AntBot (In Progress)
  tools: [CAD, Raspberry Pi, ]
- image: ../assets/images/AntBot/InProgressFullBot.PNG
+ image: ../assets/images/AntBot/InProgressFullBot.png
  description: Creating a home robot controllable from anywhere in thew world
 ---
 
