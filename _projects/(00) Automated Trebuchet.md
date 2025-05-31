@@ -60,4 +60,6 @@ In the end we succeeded in delivering a trebuchet with an electronic release mec
 
 <img src="../assets/images/Trebuchet/FullSideViewTrebuchetLaunch.GIF" alt="GIF of trebuchet launch from side view" width=600>
 
+<!--
 <img src="../assets/images/Trebuchet/SlowMoTrebuchetLaunch.GIF" alt="GIF of trebuchet launch viewed from behind" width=600>
+-->
