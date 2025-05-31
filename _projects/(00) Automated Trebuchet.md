@@ -42,15 +42,15 @@ As for the axles, FEA was ran using ANSYS in order to determine what material wo
 
 Friction was minimized with embedded bearings on the arm, as well as having a thin profiled arm which would minimize drag. 
 
-<img src="../assets/images/Trebuchet/ThinProfileArm.PNG" alt="Top view of trebuchet arm showing thin profile" width=50>
+<img src="../assets/images/Trebuchet/ThinProfileArm.png" alt="Top view of trebuchet arm showing thin profile" width=50>
 
 Some other aspects of the modular design were adjustable arm length, variable counterweight (rated up to 60 lbs) and a 3D printed electronics bay to easily switch out components.
 
-<img src="../assets/images/Trebuchet/FinalTrebuchet.JPG" alt="Isometric view of final trebuchet" width=400>
+<img src="../assets/images/Trebuchet/FinalTrebuchet.jpg" alt="Isometric view of final trebuchet" width=400>
 
 The next major design aspect was the release mechanism. Our team used the concept of a sliding bolt latch as the main inspiration for the mechanism. Keeping weight at a minimum at the end of the arm was essential to keep the center of mass of the arm near the pivot. For this reason we placed the solenoid at the pivot and connected it to our latch using kevlar rope which was selected based on its low elongation. The latch had a reset spring to speed up the launching capabiliies and utilized 3D printing to minimize weight. 
 
-<img src="../assets/images/Trebuchet/ReleaseMechanism.PNG" alt="Isometric view of release mechanism placed at end of arm" width=300>
+<img src="../assets/images/Trebuchet/ReleaseMechanism.png" alt="Isometric view of release mechanism placed at end of arm" width=300>
 
 On the electrical side of the trebuchet, we used a Arduino BLE 33 with an onboard gyroscope to track the arm angle and control the solenoid. A dynamic model of the trebuchet was made using MATLAB Simulink in order to create a relationship between arm angle and launch velocity. Assumptions made in this model were no friction, simplified geometry, no lateral movement, and perfect energy transfer. With the arm angle and launch velocity relationship, a python based ballistic simulator was used correlate arm angle to a launch distance. Having the arm angle vs launch distance relationship, this data used on the arduino to specify the arm angle at which the release mechanism would activate based on a user desired distance.
 
@@ -58,6 +58,6 @@ On the electrical side of the trebuchet, we used a Arduino BLE 33 with an onboar
 
 In the end we succeeded in delivering a trebuchet with an electronic release mechanism. We did not accomplish our personal objectives of having the ability to launch to some specified distance. Due to a slow sensor and a fast moving arm, we were not able to activate the release mechanism at the correct time, which resulted in most launches traveling the exact same distance. Our max distance was around 150 ft with a launch velocity of around 60 mph. 
 
-<img src="../assets/images/Trebuchet/FullSideViewTrebuchetLaunch.GIF" alt="GIF of trebuchet launch from side view" width=600>
+<img src="../assets/images/Trebuchet/FullSideViewTrebuchetLaunch.gif" alt="GIF of trebuchet launch from side view" width=600>
 
-<img src="../assets/images/Trebuchet/SlowMoTrebuchetLaunch.GIF" alt="GIF of trebuchet launch viewed from behind" width=600>
+<img src="../assets/images/Trebuchet/SlowMoTrebuchetLaunch.gif" alt="GIF of trebuchet launch viewed from behind" width=600>
