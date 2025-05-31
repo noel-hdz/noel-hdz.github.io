@@ -1,6 +1,6 @@
 - title: UT Austin, Student
   from: 2021
-  to: 2025
+  to: present
   description: Currently pursuing a Bachelor of Science in Mechanical Engineering, on track to graduate in May 2025.
 
 - title: ASME, Member
@@ -13,7 +13,17 @@
   to: present
   description: Active member of IEEE RAS.
 
-- title: UT Austin IGVC, Mechanical Team Member
+- title: UT Austin IGVC, Mechanical Engineer
   from: 2024
   to: present
   description: Active member of Lone Star Rangers IGVC mechanical team.
+
+- title: Longhorn Rocketry Association, Mechanical Engineer
+  from: 2025
+  to: present
+  description: Active member of the mechanical hardware research team for LRA.
+
+- title: e-NABLE, Team Lead
+  from: 2025
+  to: present
+  description: Led team of 5 through design of hand prosthetics while leveraging Additive Manufacturing.
