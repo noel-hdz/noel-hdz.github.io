@@ -2,6 +2,10 @@
   percentage: 95
   color: danger
 
+- name: ANSYS (CFD, FEA)
+  percentage: 90
+  color: warning
+
 - name: Additive Manufacturing (FDM)
   percentage: 90
   color: 
@@ -19,7 +23,7 @@
   color: light
 
 - name: Arduino
-  percentage: 75
+  percentage: 85
   color: success
 
 - name: Python
@@ -27,5 +31,5 @@
   color: warning
 
 - name: MATLAB
-  percentage: 60
+  percentage: 80
   color: info

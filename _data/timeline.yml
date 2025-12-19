@@ -1,3 +1,23 @@
+- title: Professional Experience
+  from: 
+  to: 
+  description: 
+
+- title: Redwire Space, Mechanical Engineering Intern
+  from: May 2025
+  to: Aug 2025
+  description: Worked on multiple aerospace/defense projects.
+
+- title: Pike Robotics, Contract Mechanical Engineering
+  from: Oct 2025
+  to: Oct 2025
+  description: Aided on developing systems and plans for robot deployment.
+
+- title: Technical Experience
+  from: 
+  to: 
+  description: 
+
 - title: UT Austin, Student
   from: 2021
   to: present
@@ -5,25 +25,26 @@
 
 - title: ASME, Member
   from: 2023
-  to: present
+  to: 2025
   description: Active member of ASME organization at UT Austin.
 
 - title: UT IEEE RAS, Member
   from: 2024
-  to: present
+  to: 2025
   description: Active member of IEEE RAS.
 
 - title: UT Austin IGVC, Mechanical Engineer
   from: 2024
-  to: present
+  to: 2025
   description: Active member of Lone Star Rangers IGVC mechanical team.
 
 - title: Longhorn Rocketry Association, Mechanical Engineer
   from: 2025
-  to: present
+  to: 2025
   description: Active member of the mechanical hardware research team for LRA.
 
 - title: e-NABLE, Team Lead
   from: 2025
-  to: present
+  to: 2025
   description: Led team of 5 through design of hand prosthetics while leveraging Additive Manufacturing.
+

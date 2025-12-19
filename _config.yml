@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Noel Hernandez
 description         : >-
-                      4th year Mech E student at UT Austin. 
+                      4th year Mech E student at UT Austin with experience in Aerospace. 
                       Always looking to improve and learn.
-                      Seeking intership or full-time position, available to start September 2025.
+                      Seeking full-time position, available to start January 2026.
                       
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : noel-hdz/noel-hdz.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -29,8 +29,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Noel Hernandez
-  image             : https://media.licdn.com/dms/image/v2/D5603AQEj-CYpi1rZtw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726623990052?e=1753920000&v=beta&t=8tVB4rP2TRASQUMudfEvFoPTCCvq9KXEfwIH_CsL5Ns
-#  behance           : your_username
+  image             : https://media.licdn.com/dms/image/v2/D5603AQEj-CYpi1rZtw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726623990052?e=1767830400&v=beta&t=-GyHcVQkkaAuoja_ce9sbWu74ZHd_b8rPKOVAotQgZE
 # dribbble          : your_username
   email             : noelh@utexas.edu
 #  facebook          : your_username
