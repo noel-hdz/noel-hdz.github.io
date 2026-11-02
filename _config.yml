@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Noel Hernandez
 description         : >-
-                      4th year Mech E student at UT Austin with experience in Aerospace. 
-                      Always looking to improve and learn.
-                      Seeking full-time position, available to start January 2026.
+                      UT Austin mechanical engineering graduate with hands-on aerospace, robotics, and test experience.
+                      Seeking full-time mechanical engineering roles in aerospace and robotics.
                       
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : noel-hdz/noel-hdz.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
